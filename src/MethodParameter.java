@@ -7,6 +7,7 @@ public class MethodParameter {
     }
 
     static void sayHello(String firstName, String lastName){
+
         System.out.println("Hello" + firstName + "" + lastName);
     }
 }
